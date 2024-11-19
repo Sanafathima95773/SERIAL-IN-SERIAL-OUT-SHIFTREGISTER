@@ -38,7 +38,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 Developed by : Sana Fathima H 
 RegisterNumber: 212223240145
-module EXP10(clk, sin, q);
+module e10(clk, sin, q);
 input clk;
 input sin;
 output [3:0] q;
@@ -59,7 +59,8 @@ endmodule
 ![Screenshot 2024-11-16 133447](https://github.com/user-attachments/assets/088c9efb-5080-41ac-82fc-e9d2de8a8264)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![image](https://github.com/user-attachments/assets/727aea1f-4c9e-4d41-a452-28e0b8addef8)
+
+![Screenshot 2024-11-19 142507](https://github.com/user-attachments/assets/d38b7834-01de-4d0a-9c13-0871ba1caa72)
 
 
 
